@@ -10,14 +10,14 @@ body {
 
 
 #wrapper {
-    background: rgb(255, 255, 215);
+    background: lavenderblush;
 }
 
 
 /* header*/
 
 header {
-    background-color: rgb(167, 217, 249);
+    background-color:lavender;
     text-align: center;
 
 }
@@ -151,3 +151,7 @@ footer h3 {
     }
 
 }
+
+
+
+
